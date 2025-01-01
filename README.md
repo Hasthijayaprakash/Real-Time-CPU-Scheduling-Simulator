@@ -52,8 +52,6 @@ Key references:
 
 ---
 
-
-
 ### 3. Design and Implementation
 
 #### 3.1 Task Representation and Database
