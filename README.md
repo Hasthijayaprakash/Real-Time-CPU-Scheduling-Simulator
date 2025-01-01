@@ -5,7 +5,7 @@
 ## System Design
 
 
-![System Design](system_design.png)
+![System Design](system_desig.png)
 
 ---
 
