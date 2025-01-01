@@ -5,7 +5,7 @@
 ## System Design
 
 
-![System Design](Real-Time-CPU-Scheduling-Simulator/system_design.png)
+![System Design](system_design.png)
 
 ---
 
